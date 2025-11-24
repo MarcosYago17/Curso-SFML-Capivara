@@ -1,0 +1,12 @@
+# Ignorar pastas de compilação
+bin/
+obj/
+
+# Ignorar arquivos temporários do CodeBlocks
+*.layout
+*.depend
+*.o
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
